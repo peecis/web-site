@@ -706,12 +706,12 @@ ul.nav li.active a:before {
 	-o-transition: none;
 	transition: none;
 }
-/*Pricing-stylesheets-include-here*/
-#pricing {
+/*projects-stylesheets-include-here*/
+#projects {
 	padding: 4% 0% 0% 2%;
 	text-align:center
 }
-#pricing ul.pricing {
+#projects ul.projects {
 	list-style: none;
 	padding: 0;
 	margin: 70px 0 30px;
@@ -720,7 +720,7 @@ ul.nav li.active a:before {
 	padding: 15px;
 	text-align: center;
 }
-#pricing ul.pricing:hover {
+#projects ul.projects:hover {
 	box-shadow: 0 8px 8px rgba(0, 0, 0, .26);
 	-webkit-transition-duration: 0.3s;
 	-moz-transition-duration: 0.3s;
@@ -728,19 +728,19 @@ ul.nav li.active a:before {
 	-o-transition-duration: 0.3s;
 	transition-duration: 0.3s;
 }
-#pricing ul.pricing li {
+#projects ul.projects li {
 	display: block;
 	padding: 10px;
 	color:#666;
 }
-#pricing ul.pricing li.plan-header {
+#projects ul.projects li.plan-header {
 	background: #f8f8f8;
 	border-radius: 4px 4px 0 0;
 	margin: -15px -15px 10px;
 	padding: 15px 15px 30px;
 	border: 0;
 }
-#pricing ul.pricing li.plan-header .price-duration {
+#projects ul.projects li.plan-header .proj-duration {
 	position: relative;
 	margin-top: -63px;
 	top: -10px;
@@ -754,22 +754,22 @@ ul.nav li.active a:before {
 	border-radius: 100px;
 	border: 5px solid #f6f6f6;
 }
-#pricing ul.pricing li.plan-header .price-duration {
+#projects ul.projects li.plan-header .proj-duration {
 	display: block;
 	line-height: 1;
 }
-#pricing ul.pricing strong {
+#projects ul.projects strong {
 	font-size:14px;
 }
-#pricing ul.pricing li.plan-header .price-duration > .price {
+#projects ul.projects li.plan-header .proj-duration > .proj {
 	font-size: 24px;
 	font-weight: 700;
 	margin-top: 35px;
 }
-#pricing ul.pricing li.plan-header .price-duration > .duration {
+#projects ul.projects li.plan-header .proj-duration > .duration {
 	margin-top: 5px;
 }
-#pricing ul.pricing li.plan-header .plan-name {
+#projects ul.projects li.plan-header .plan-name {
 	margin-top: 10px;
 	font-size: 21px;
 	color: #444;
@@ -777,12 +777,12 @@ ul.nav li.active a:before {
 	line-height: 1;
 	text-transform: uppercase;
 }
-#pricing ul.pricing.featured {
+#projects ul.projects.featured {
 	background: #222534;
 	color: #fff;
 	border: 0;
 }
-#pricing ul.pricing.featured li.plan-header .plan-name {
+#projects ul.projects.featured li.plan-header .plan-name {
 	color: #fff;
 }
 /*Team-stylesheets-include-here*/
