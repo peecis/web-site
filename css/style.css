@@ -842,6 +842,15 @@ ul.nav li.active a:before {
 .team-desc ul.team-social-icon li a i.fa:hover.fa-twitter {
 	color:#55acee;
 }
+.team-desc ul.team-social-icon li a i.fa:hover.fa-github {
+	color:#55acee;
+}
+.team-desc ul.team-social-icon li a i.fa:hover.fa-telegram {
+	color:#55acee;
+}
+.team-desc ul.team-social-icon li a i.fa:hover.fa-discord {
+	color:#55acee;
+}
 .team-desc ul.team-social-icon li a i.fa:hover.fa-pinterest-p {
 	color:#bd081c;
 }
@@ -1089,6 +1098,21 @@ textarea.form-control {
 	border:2px solid #3b5998;
 }
 #footer-down ul li.twitter i.fa:hover {
+	color:#00aced;
+	border:2px solid #00aced;
+}
+}
+#footer-down ul li.github i.fa:hover {
+	color:#00aced;
+	border:2px solid #00aced;
+}
+}
+#footer-down ul li.telegram i.fa:hover {
+	color:#00aced;
+	border:2px solid #00aced;
+}
+}
+#footer-down ul li.discord i.fa:hover {
 	color:#00aced;
 	border:2px solid #00aced;
 }
